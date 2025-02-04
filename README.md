@@ -2,7 +2,7 @@
 
 Evaluate logic expressions, and generate truth tables.
 <p align=”center”>
-<img width="1000" src="https://raw.githubusercontent.com/xylium117/rubidium/refs/heads/master/banner.png" alt="Banner">
+<img width="1000" src="https://raw.githubusercontent.com/xylium117/syllogism/refs/heads/master/banner.png" alt="Banner">
 </p>
 
 ---
